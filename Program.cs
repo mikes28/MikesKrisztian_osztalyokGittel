@@ -57,5 +57,29 @@ internal class Program
         Console.WriteLine(karakter1);
         Console.WriteLine(karakter2);
 
+
+
+
+        Urhajo urhajo1 = new("Millennium Falcon", 1000, 5, 100);
+        Urhajo urhajo2 = new("Millennium Falcon", 5);
+
+        Console.WriteLine(urhajo1);
+        Console.WriteLine(urhajo2);
+
+        urhajo1.Indulas();
+        urhajo2.Indulas();
+        Console.WriteLine(urhajo1);
+        Console.WriteLine(urhajo2);
+
+        urhajo1.Tankolas(10);
+        urhajo2.Tankolas(10);
+        Console.WriteLine(urhajo1);
+        Console.WriteLine(urhajo2);
+
+        urhajo1.Landolas();
+        urhajo2.Landolas();
+        Console.WriteLine(urhajo1);
+        Console.WriteLine(urhajo2);
+
     }
 }

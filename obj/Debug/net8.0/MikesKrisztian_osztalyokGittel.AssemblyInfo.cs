@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MikesKrisztian_osztalyokGittel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b683fea8c6d0d097b873a767fc38743eb5a4b88f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d622ab59d45e25768c256ab8d28d84d563cb9ae6")]
 [assembly: System.Reflection.AssemblyProductAttribute("MikesKrisztian_osztalyokGittel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MikesKrisztian_osztalyokGittel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
