@@ -81,5 +81,25 @@ internal class Program
         Console.WriteLine(urhajo1);
         Console.WriteLine(urhajo2);
 
+
+
+        KemKuldetes kuldetes1 = new("007", "Egyesült Királyság", 10, 80.0);
+        KemKuldetes kuldetes2 = new("007", "Egyesült Királyság");
+
+        Console.WriteLine(kuldetes1);
+        Console.WriteLine(kuldetes2);
+
+        kuldetes1.KuldetesInditasa();
+        kuldetes2.KuldetesInditasa();
+
+        kuldetes1.VeszelySzintNovelese(5);
+        kuldetes2.VeszelySzintNovelese(5);
+        Console.WriteLine(kuldetes1);
+        Console.WriteLine(kuldetes2);
+
+        kuldetes1.SikerEsejNovelese(10);
+        kuldetes2.SikerEsejNovelese(10);
+        Console.WriteLine(kuldetes1);
+        Console.WriteLine(kuldetes2);
     }
 }
