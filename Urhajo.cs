@@ -1,6 +1,6 @@
 ﻿namespace MikesKrisztian_osztalyokGittel;
 
-public class Urhajo
+internal class Urhajo
 {
     public string? Nev { get; set; }
     public double Sebesseg { get; set; }

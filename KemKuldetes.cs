@@ -1,6 +1,6 @@
 ﻿namespace MikesKrisztian_osztalyokGittel;
 
-public class KemKuldetes
+internal class KemKuldetes
 {
     public string? Kodnev { get; set; }
     public string? Orszag { get; set; }
