@@ -1,0 +1,15 @@
+/home/mikes/Documents/github/2025/c#/MikesKrisztian_osztalyokGittel/bin/Debug/net8.0/MikesKrisztian_osztalyokGittel
+/home/mikes/Documents/github/2025/c#/MikesKrisztian_osztalyokGittel/bin/Debug/net8.0/MikesKrisztian_osztalyokGittel.deps.json
+/home/mikes/Documents/github/2025/c#/MikesKrisztian_osztalyokGittel/bin/Debug/net8.0/MikesKrisztian_osztalyokGittel.runtimeconfig.json
+/home/mikes/Documents/github/2025/c#/MikesKrisztian_osztalyokGittel/bin/Debug/net8.0/MikesKrisztian_osztalyokGittel.dll
+/home/mikes/Documents/github/2025/c#/MikesKrisztian_osztalyokGittel/bin/Debug/net8.0/MikesKrisztian_osztalyokGittel.pdb
+/home/mikes/Documents/github/2025/c#/MikesKrisztian_osztalyokGittel/obj/Debug/net8.0/MikesKrisztian_osztalyokGittel.GeneratedMSBuildEditorConfig.editorconfig
+/home/mikes/Documents/github/2025/c#/MikesKrisztian_osztalyokGittel/obj/Debug/net8.0/MikesKrisztian_osztalyokGittel.AssemblyInfoInputs.cache
+/home/mikes/Documents/github/2025/c#/MikesKrisztian_osztalyokGittel/obj/Debug/net8.0/MikesKrisztian_osztalyokGittel.AssemblyInfo.cs
+/home/mikes/Documents/github/2025/c#/MikesKrisztian_osztalyokGittel/obj/Debug/net8.0/MikesKrisztian_osztalyokGittel.csproj.CoreCompileInputs.cache
+/home/mikes/Documents/github/2025/c#/MikesKrisztian_osztalyokGittel/obj/Debug/net8.0/MikesKrisztian_osztalyokGittel.sourcelink.json
+/home/mikes/Documents/github/2025/c#/MikesKrisztian_osztalyokGittel/obj/Debug/net8.0/MikesKrisztian_osztalyokGittel.dll
+/home/mikes/Documents/github/2025/c#/MikesKrisztian_osztalyokGittel/obj/Debug/net8.0/refint/MikesKrisztian_osztalyokGittel.dll
+/home/mikes/Documents/github/2025/c#/MikesKrisztian_osztalyokGittel/obj/Debug/net8.0/MikesKrisztian_osztalyokGittel.pdb
+/home/mikes/Documents/github/2025/c#/MikesKrisztian_osztalyokGittel/obj/Debug/net8.0/MikesKrisztian_osztalyokGittel.genruntimeconfig.cache
+/home/mikes/Documents/github/2025/c#/MikesKrisztian_osztalyokGittel/obj/Debug/net8.0/ref/MikesKrisztian_osztalyokGittel.dll
