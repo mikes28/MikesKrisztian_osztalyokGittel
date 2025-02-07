@@ -34,5 +34,28 @@ internal class Program
         Console.WriteLine(film1);
 
         System.Console.WriteLine(film1.Jatszas());
+
+
+
+
+        Karakter karakter1 = new("Gandalf", 20, 100, 50);
+        Karakter karakter2 = new("Gandalf", 50);
+
+        Console.WriteLine(karakter1);
+        Console.WriteLine(karakter2);
+
+        karakter1.Tamadas();
+        karakter2.Tamadas();
+
+        karakter1.Gyogyulas(20);
+        karakter2.Gyogyulas(30);
+        Console.WriteLine(karakter1);
+        Console.WriteLine(karakter2);
+
+        karakter1.Szintlepes();
+        karakter2.Szintlepes();
+        Console.WriteLine(karakter1);
+        Console.WriteLine(karakter2);
+
     }
 }
